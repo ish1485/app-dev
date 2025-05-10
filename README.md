@@ -1,11 +1,12 @@
 # app-dev
 My first repository
-**Why I love it:**
-- Thrilling horror elements
-- Engaging storyline across different timelines
-- Strong, diverse characters
+**My Fav Series:**
+- Descendants of the Sun
+  
+![image](https://github.com/user-attachments/assets/660b800b-6d0b-4507-9890-c2273401627b)
 
-### Memorable Aspect
+
+### Reason Why I Love this movies or series
 _The way the past and present are connected through curses and secrets is gripping._
 
 Previous
