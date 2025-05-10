@@ -7,4 +7,16 @@ My first repository
 
 
 ### Reason Why I Love this movies or series
-_The way the past and present are connected.I love the mix of romance, action, and heartwarming moments in a unique military setting.
+_I love the mix of romance, action, and heartwarming moments in a unique military setting.
+
+####Cast
+Main
+-Song Joong-ki as Captain Yoo Si-jin (a.k.a. Big Boss)
+-Song Hye-kyo as Doctor Kang Mo-yeon 
+-Jin Goo as Master sergeant Seo Dae-young
+-Kim Ji-won as First Lieutenant Yoon Myung-ju
+-Alpha Team Members
+-Haesung Hospital Medical Services Team
+-People at Haesung Hospital
+-Tae Baek Army
+-Uruk area
