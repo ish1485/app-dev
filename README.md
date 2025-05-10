@@ -7,6 +7,4 @@ My first repository
 
 
 ### Reason Why I Love this movies or series
-_The way the past and present are connected through curses and secrets is gripping._
-
-Previous
+_The way the past and present are connected.I love the mix of romance, action, and heartwarming moments in a unique military setting.
