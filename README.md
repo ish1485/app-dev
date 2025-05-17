@@ -7,7 +7,7 @@ My first repository
 
 
 ### Reason Why I Love this movies or series
-_I love the mix of romance, action, and heartwarming moments in a unique military setting.
+_I love the mix of romance, action, and heartwarming moments in a unique military setting
 
 ***Cast***:
 
