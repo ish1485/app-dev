@@ -1,42 +1,24 @@
 # app-dev
 My first repository
-**My Fav Series:**
+**My Fav Anime:**
 ### koroko no basket
   
 ![image](https://github.com/user-attachments/assets/b9ac4fdf-66fa-4f47-a90b-55b4087f7e06)
 
 
 
-### Reason Why I Love this movies or series
-_I love the mix of romance, action, and heartwarming moments in a unique military setting
+### fav character
+- Tetsuya Kuroko
 
-***Cast***:
-
--Song Joong-ki as Captain Yoo Si-jin 
-
--Song Hye-kyo as Doctor Kang Mo-yeon 
-
--Jin Goo as Master sergeant Seo Dae-young
-
--Kim Ji-won as First Lieutenant Yoon Myung-ju
-
--Alpha Team Members
-
--Haesung Hospital Medical Services Team
-
--People at Haesung Hospital
-
--Tae Baek Army
-
--Uruk area
 
 ****Description****:
+- Personality
+Kuroko has a deadpan and straightforward personality. He is very hard working and always tries to satisfy the needs of the team above his own. He has no presence and is quite unnoticeable, a trait that goes well with his misdirection. He has also displayed much respect towards fellow passionate basketball players and thinks that while senpais have to have pride, kōhais need to have respect.[2] Despite his initial kind personality, Kuroko gets extremely furious at dirty play, such as when his teammates were threatened and injured by foul methods in the Kirisaki Daīchi game. His aura changes so drastically, that even Kagami gets scared when he sees him like that.[3] When Kuroko gets angry, it gets very hard to beat him, as he is filled up with fighting spirit. When the situation worsens, he seems to turn talkative.[4]
 
-Captain Yoo Si-jin (played by Song Joong-ki), a member of South Korea’s special forces, and his friend Master Sergeant Seo Dae-young (Jin Goo) are off duty when they stop a motorcycle thief, Kim Gi-bum (Kim Min-seok), using toy guns from a shooting game. During the scuffle, Kim is injured and taken to the hospital, where the soldiers go to retrieve Dae-young’s stolen phone. There, Si-jin meets Dr. Kang Mo-yeon (Song Hye-kyo) and is immediately drawn to her. However, Mo-yeon mistakenly believes Si-jin is involved with the thief after overhearing Dae-young call him by his military call sign, “Big Boss.” Si-jin clears up the misunderstanding with the help of military doctor Yoon Myung-ju (Kim Ji-won), Mo-yeon’s old academic rival.
+Prior in his days in Teiko, he used to have more emotion, determination, and compassion for basketball at the 5th grade when he watched, he seems exasperated as he struggles for joining, when he is now a regular, he is somehow happy and smiling that he could die, however when Akashi, Aomine, and the rest of the Miracles where becoming distant, Kuroko was fed up due to his team's arrogance, cold-hearted play, and lack of joy for basketball, in the match between Meiko, he couldn't bear watching as he is now filled with sorrow, and grief, as a result, he quits the team and becoming antisocial, however, Ogiwara notes that Kuroko's eyes were just like the Miracles, but filled with warmth, he says to Kuroko to never stop playing basketball,through Mochida, because of this Kuroko is now determined to proved his style of basketball, as he chose Seirin due to their teamplay is filled with fun, encouraging him to join their team.
 
-Si-jin and Mo-yeon begin dating, but their relationship struggles due to his unpredictable military duties. Si-jin is later deployed on a peacekeeping mission to the war-torn fictional country of Uruk. Meanwhile, Mo-yeon, disillusioned after being denied a promotion due to favoritism at the hospital, confronts Si-jin when he returns, questioning the secrecy of his work. Their differing worldviews—Si-jin kills to protect lives, while Mo-yeon saves them as a doctor—cause them to amicably break up. Dae-young also grapples with his feelings for Myung-ju, as their relationship risks violating military rules, especially since she is the daughter of their commanding officer.
+He has metaphorically referred to himself as a "shadow."[5] He means that he is playing for someone else, and that he becomes stronger when the "light" is stronger. The "light" would be the player he supports during a basketball game. During his Junior High school basketball career, his "light" was Aomine, and now it is Kagami.
 
-Eight months later, Mo-yeon is sent to Uruk as punishment for rejecting her hospital director’s romantic interest. There, she reunites with Si-jin. As they work through a devastating earthquake, a deadly virus outbreak, and threats from a local warlord who was once Si-jin’s ally, they grow closer. Mo-yeon accidentally confesses her love, and the two officially rekindle their romance. She eventually accepts the dangers of Si-jin’s job and the secrecy that comes with it. At the same time, Dae-young finally shows his feelings for Myung-ju after she survives the virus.
+His philosophy in teamplay somehow had a point, but after the first Too match, he learns from Kiyoshi and Kagami that its not just teamplay to achieve victory, but also individual skills, leading to his training to improve himself. His mental will proves to be extremely high and somehow "reckless" when Kuroko faces the enemies when it comes to basketball as he did it twice with the bullies of certain school, and Jabberwock, as Kagami pointing his stupidity, even Midorima remarks the unbelievable thing that Kuroko done, and surprising Akashi as he noted himself to Kuroko's straightforward confrontation against Jabberwock.
 
-Back in Korea, Si-jin and Mo-yeon continue their relationship until Si-jin and Dae-young disappear during a covert mission and are presumed dead. Mo-yeon grieves his loss and honors his memory by volunteering in Albania, where Si-jin unexpectedly reunites with her. Her colleagues, shocked to see him during a video call, mistake him for a ghost as she had just held a memorial for him. Meanwhile, Dae-young reunites with Myung-ju in Uruk, where Gi-bum—now a soldier—has taken over Dae-young’s old post. Si-jin explains that he and Dae-young were saved by a North Korean soldier he had once helped. The story ends with all four—Si-jin, Mo-yeon, Myung-ju, and Dae-young—happily reunited.
-
+Outside the court, despite his unnoticeable personality, Kuroko is very gentlemanly when dealing with women. Amongst his friends, Kagami, Aomine and Kise are really shocked to see how easily Kuroko can cheer up Momoi and even knows what to do on a date.[6] Kuroko also lectures Kagami that he should deal with women more delicately.
