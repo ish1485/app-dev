@@ -3,7 +3,8 @@ My first repository
 **My Fav Series:**
 ### koroko no basket
   
-![image](https://github.com/user-attachments/assets/660b800b-6d0b-4507-9890-c2273401627b)
+![image](https://github.com/user-attachments/assets/b9ac4fdf-66fa-4f47-a90b-55b4087f7e06)
+
 
 
 ### Reason Why I Love this movies or series
