@@ -1,7 +1,7 @@
 # app-dev
 My first repository
 **My Fav Series:**
-- Descendants of the Sun
+### koroko no basket
   
 ![image](https://github.com/user-attachments/assets/660b800b-6d0b-4507-9890-c2273401627b)
 
